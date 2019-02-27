@@ -1733,6 +1733,7 @@
 
 	h2 {
 		font-size: 1.1em;
+		color: white;
 	}
 
 	h3 {
@@ -2757,7 +2758,7 @@
 				background-color: #d3101a;
 			}
 			.tiles article.style8 > .image:before {
-				background-color: #ffffff;
+				background-color: #000000;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
